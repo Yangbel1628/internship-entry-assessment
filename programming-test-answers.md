@@ -33,3 +33,38 @@
   Using Javascript Math.floor and Math.random to control the number range.
   The last part was very interseting to print "Lucky Number" if the random number is divisible by 7. 
   */
+
+
+
+   ## Exercise 2
+
+### 1. **What is your understanding of the term “Design Patterns”?**  
+   Provide a description in your own words.
+
+### 2. **Explain the MVC Pattern**  
+   - What does MVC stand for?  
+   - Explain the pattern in detail.  
+   - What are some use cases for this framework?
+
+### 3. **List three other design patterns**  
+   - Provide names and details for three additional design patterns.
+   - Explain how you have used those patterns in the past and how they have solved your problem  
+   - Use diagrams to explain the design patterns.
+
+- **Answer**:
+
+   - #1 
+    Design patterns are reusable solution for common problems. This provide a clear and structual way of code for making things more reausable flexible and easy to maintain which helps developer write code much more clear and efficient.
+
+   - #2
+   - MVC stand for Model View Controller.
+   - In the past i created a project (Movie database) using react.js i used a structure similar to MVC without formally implementing it.
+     Model 🧠 -> I used state to manage the movie database Favourite movies and API responses
+     View 👁️ -> What the users saw - react components render the ui- movie cards, search bar, layout and banners.
+     Controller 🎮 -> The functions which handles all the clicks or search movie and update data.
+
+     /* At starting i wasn't familiar with the MVC pattern before this exercise. But after doing some research and understanding, i realized thati had already used a similar structure in my past projecct which was react based movie database project. Understanding the concept of MVC helped me see naturally seperated data (Model) UI (View) and Logic (Controller) even if I was not knowing the patter name at the time.
+     */ 
+
+   - #3
+   - Diagram image -> Exercise-2-mvc-diagram.jpg 
