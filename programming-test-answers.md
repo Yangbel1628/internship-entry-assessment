@@ -68,3 +68,50 @@
 
    - #3
    - Diagram image -> Exercise-2-mvc-diagram.jpg 
+
+
+   ## Exercise 3
+
+### 1. **Implementation Task**  
+   Based on the class diagram below, provide an implementation in any object-oriented programming language of your choice.
+   
+```mermaid
+classDiagram
+
+class A {
+	# Name : string
+	+ PrintName() void
+}
+
+<<abstract>> A
+
+class B {
+	- PrintName(message : string) void
+}
+
+class C {
+	+ PrintName(message : string) void
+}
+
+D --|> A
+B --|> A
+C --|> B
+```
+
+### 2. **Key Questions**  
+   - Are you able to directly create a new instance of `ObjectA`? Please explain your answer.  
+   - Given an instance of `ObjectC`, are you able to call the method `PrintMessage` defined in `ObjectB`? Please explain your answer.  
+   - Try to explain as many key features of object-oriented programming as you can find in this example.
+
+- **Answer**:
+// the class A with name and funciton to print it
+//As from the question I know that class A is an abstract so you cant use it directly.
+class A {
+    constructor(name) {
+        this.name = name; // saves the name
+    }
+
+    PrintName() {
+        console.log("name is:" this.name);  //print the name
+    }
+}
