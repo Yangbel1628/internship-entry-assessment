@@ -115,3 +115,6 @@ class A {
         console.log("name is:" this.name);  //print the name
     }
 }
+
+// class D gets everything from class A
+class D extends A {}
