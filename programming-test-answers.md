@@ -124,3 +124,6 @@ let d = new D("Yangbel");
 
 // Call the function to print the name
 d.PrintName(); // Output: Name is: Yangbel
+
+
+/* I come from a strong web development background, so I haven’t used abstract classes or private methods in JavaScript before. But I understand this diagram is about inheritance and method visibility. I tried to follow the structure logically and write what I could. I'm eager to learn these deeper OOP concepts more seriously now. */
