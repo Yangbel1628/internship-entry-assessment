@@ -118,3 +118,9 @@ class A {
 
 // class D gets everything from class A
 class D extends A {}
+
+// a new D and give it a name
+let d = new D("Yangbel");
+
+// Call the function to print the name
+d.PrintName(); // Output: Name is: Yangbel
