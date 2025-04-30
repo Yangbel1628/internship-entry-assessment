@@ -243,6 +243,19 @@ This exercise focuses on strategies for working with existing code bases and ens
   It's not a good practice to always copy paste code, reusing code where its possible is much clean and easier to maintain.
 
 - I'd add comments to explain confusing parts of the code, which helps both me when i come back to it later or anyone else who works on it in the future.
-- Keeping the documentation updated with every change.
-- If i write a new feature, I'd explain it how to use it in a note or README.
-- It's best practice to write small test to make sure my code actually work and doesn't break anything else. 
+  Keeping the documentation updated with every change.
+  If i write a new feature, I'd explain it how to use it in a note or README.
+  It's best practice to write small test to make sure my code actually work and doesn't break anything else. 
+
+- #3
+  I'd split the code into separate functions or components so i can change or add features without touching other code.
+  I avoid writting code which are tightly connected code so each part of code does its own job or i be really careful with the tightly connected code.
+  Testing my code and writing it in my note to keep track of it and avoid changing existing code if it already works.
+
+- To keep things flexible and stable, I'd follow the open/close principle code should be open to adding features but closed for changes.
+
+  Using design patterns like: Factory pattern(to create things easily).
+  Constructor pattern: (used to create structured and reusable objects).
+  MVC pattern: (used to separate logic (model), user interface (view), and user input handling (controller)) this makes it easier to change or add
+  features in one part without breaking other parts.
+  
