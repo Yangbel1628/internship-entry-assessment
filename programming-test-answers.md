@@ -253,7 +253,6 @@ This exercise focuses on strategies for working with existing code bases and ens
   Testing my code and writing it in my note to keep track of it and avoid changing existing code if it already works.
 
 - To keep things flexible and stable, I'd follow the open/close principle code should be open to adding features but closed for changes.
-
   Using design patterns like: Factory pattern(to create things easily).
   Constructor pattern: (used to create structured and reusable objects).
   MVC pattern: (used to separate logic (model), user interface (view), and user input handling (controller)) this makes it easier to change or add
