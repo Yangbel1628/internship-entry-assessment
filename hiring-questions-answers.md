@@ -14,15 +14,17 @@
       based on my career path.*
 
 4. **In what timeframe are you available for the internship?**  
-   - *(Start Date):*  
-   - *(End Date):*  
+   - *(July 15, 2025.):*  
+   - *(January 13, 2026.):*  
 
 5. **Can you work the entire period, or just part of the specified period?**  
-   - *(Yes/No):*  
+   - *(No):*
+   //I would really like to work for the entire duration of the internship, but due to my final exams, I will only be available until November 1, 2025. After that, I would be happy to discuss any further options if needed.  
 
 6. **In case you are not available during the full period, what would be the preferable period?**  
-   - *(Start Date):*  
-   - *(End Date):*  
+   - *(July 15, 2025):*  
+   - *(November 1, 2025):*
+     //Due to my final exams, I will only be available until November 1, 2025. After that, I would be happy to discuss any further options if needed.  
 
 7. **Are you a European citizen?**  
    > If not, please be aware that the hiring process might take up to 2 months due to work permit and Visa application processes.  
