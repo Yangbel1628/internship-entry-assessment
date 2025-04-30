@@ -257,4 +257,20 @@ This exercise focuses on strategies for working with existing code bases and ens
   Constructor pattern: (used to create structured and reusable objects).
   MVC pattern: (used to separate logic (model), user interface (view), and user input handling (controller)) this makes it easier to change or add
   features in one part without breaking other parts.
+
+-------------------------------------------------------------------------------------------------------------------------->
+
+//README//
+Final Thoughts
+Honestly, this was a challenging yet really fun experience. I found each question interesting and a good way to test what I know. Some were tougher than I expected, especially when it came to applying certain concepts in real code, but it felt great when I figured them out.
+
+Some exercises really tested my problem-solving skills, especially when it came to optimizing code or applying abstract concepts like inheritance and encapsulation. It was interesting to see how theoretical knowledge could be translated into functional code, and how those patterns and principles are used in real-world applications.
+
+I also got more comfortable with Git along the way. Managing versions, pushing changes, and handling commits became a lot clearer as I worked through the exercises. I definitely feel like I understand Git better now and will use it more efficiently in the future.
+
+It wasn’t easy to finish everything quickly because of uni, but taking my time helped me dig deeper into the problems and learn even more. Balancing university work with these exercises wasn’t the easiest, but it’s always worth it when you get to apply new skills to something practical.
+
+There were moments where I was stuck, but that’s all part of the process. Overall, I’m glad I stuck with it. I learned a lot and will definitely keep pushing myself to solve more problems and improve my coding.
+
+Thanks for checking out my work.🙂
   
