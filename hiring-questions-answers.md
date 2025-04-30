@@ -6,11 +6,12 @@
 
 2. **Until when are you registered as a student?**  
    > The internship requires you to be registered during the entire duration of the internship.  
-   - *(Date):*
+   - *(August 2026):*
 
 3. **In case you are finishing your bachelor's studies, are you planning to enroll in a master's after?**  
-   - *(Yes/No):*  
-   - *(Comments):*
+   - *(No):*  
+   - *(Comments): I plan to start working in the industry after completing my bachelor's degree, but i may consider a master's in the future
+      based on my career path.*
 
 4. **In what timeframe are you available for the internship?**  
    - *(Start Date):*  
