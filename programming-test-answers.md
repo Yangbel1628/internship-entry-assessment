@@ -127,3 +127,24 @@ d.PrintName(); // Output: Name is: Yangbel
 
 
 /* I come from a strong web development background, so I haven’t used abstract classes or private methods in JavaScript before. But I understand this diagram is about inheritance and method visibility. I tried to follow the structure logically and write what I could. I'm eager to learn these deeper OOP concepts more seriously now. */
+
+- 2
+- #1 No, I cannot directly create an instance of ObjectA in JavaScript because abstract classes are typically used as blueprints for other classes to inherit from. Though in JavaScript, we don’t have a true abstract keyword, I understand that abstract classes are designed to provide a structure and cannot be instantiated directly. This idea is like using a parent class as a foundation for other classes, which is what I've done with class D inheriting from class A.
+
+Since A has a constructor, we can inherit it, but we need to create a subclass (like D) to actually instantiate and work with objects. I’ve tried following this idea by using inheritance, and though I haven't fully explored abstract classes or private methods in JavaScript before, I plan to learn these concepts more deeply.
+
+- #2 I wasn't able to implement ObjectC or ObjectB because i am still learning about inheritance and access control like private and public key in javascript.
+  What i understand from this was: ObjectC inherits from ObjectB and if the method PrintMessage in ObjectB is not private then ObjectC should be able to access and if its private (like #PrintMessage) then it is not accessable from ObjectC.
+
+- #3 I am still understanding nad learning the concept and going deep in it but what i have understand while working on this:
+  Inheritance: I understand that how one class can get properties and method from other. eg(I usedd class D extends  A which means D is inherit from A).
+
+  Abstraction: I found out that its more like a blueprint and you can't directly create an object from the class. eg (if we try let a  = new A("Test)this is not allowed) like orther OOP languages like Java or c++ it will direct show error. As i found out javascript doesn't have a build in abstract classes so may we can do something like eg-> if(new.target === A) throw new error ("cannot directly abstract class A") the new.target will check if if you are trying to create A directly if you do it will print error.
+
+  Encapsulation: I noticed that properties like name can be kept protected or privatae. eg-> ( constructor(name) so its a function works when you create a new object from class and the (name) is the parameter) but also now i understand real private ones use # in javascript.
+
+  Polymorphism: I didn't use this fully, but i understand that you can define the same method in different ways in different classes like eg-> (PrintName() can be redefined in child class where one class can have different output like "Hello" and other as "hello yangbel" even if we used the same PrintName()).
+
+// I'm still learning advanced OOP concepts.
+//I focused on what I understood: inheritance, constructor, and method calling.
+//I will imporve my knowledge of abstraction and polymorphism with more practuce and implement in real world projects.
