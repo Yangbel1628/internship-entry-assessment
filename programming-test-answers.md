@@ -58,6 +58,11 @@
 
    - #2
    - MVC stand for Model View Controller.
+   - // Correction: This part was originally written here by mistake.
+     // It has been moved to Exercise 3 - Question 2 where it belongs.
+
+   - #3
+   -
    - In the past i created a project (Movie database) using react.js i used a structure similar to MVC without formally implementing it.
      Model 🧠 -> I used state to manage the movie database Favourite movies and API responses
      View 👁️ -> What the users saw - react components render the ui- movie cards, search bar, layout and banners.
@@ -65,8 +70,6 @@
 
      /* At starting i wasn't familiar with the MVC pattern before this exercise. But after doing some research and understanding, i realized thati had already used a similar structure in my past projecct which was react based movie database project. Understanding the concept of MVC helped me see naturally seperated data (Model) UI (View) and Logic (Controller) even if I was not knowing the patter name at the time.
      */ 
-
-   - #3
    - Diagram image -> Exercise-2-mvc-diagram.jpg 
 
 
