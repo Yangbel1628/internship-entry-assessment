@@ -204,3 +204,35 @@ Since A has a constructor, we can inherit it, but we need to create a subclass (
 // I'm still learning advanced OOP concepts.
 //I focused on what I understood: inheritance, constructor, and method calling.
 //I will imporve my knowledge of abstraction and polymorphism with more practuce and implement in real world projects.
+
+
+## Exercise 4
+
+### Maintaining and Expanding Software for Component Validation
+
+This exercise focuses on strategies for working with existing code bases and ensuring the software remains maintainable as new features and requirements are introduced.
+
+### 1. **Working with Existing Code**  
+- How would you approach understanding and contributing to an existing code base with minimal disruption?  
+- What practices would you follow to ensure your changes integrate well with the current structure?  
+
+### 2. **Ensuring Maintainability**  
+- What techniques would you use to keep the code base clean, modular, and easy to maintain as new features are added?  
+- How would you handle code documentation and testing to support long-term maintainability?  
+
+### 3. **Balancing Flexibility and Stability**  
+- How would you design or refactor the software to make it flexible for future changes while ensuring the existing functionality remains stable?  
+- Which design patterns or principles would you apply to achieve this balance
+
+- **Answer**:
+- #1
+- First, I'd read any documents the team has shared or go for the README to understand the details.
+  I'd look through the file structure to see how things are organized.
+  Use tools like git blame, version history and look at comments to understand why the code exist.
+  I'll run the code locally to see how it behaves and understand how it works.
+  If i got stuck, I'd check the commit history, comments or ask a teammate about the problem i am stuck at.
+
+- I'd follow the same style or format the team is using so the code look structured.
+  I'd try to keep my changes small and focused.
+  Its best to check the changes i made and test them if everything works fine and there is no vulnerability.
+  If i changed something big its best to test it carefully and get a code review and also write it down in my notes to keep track of it.
