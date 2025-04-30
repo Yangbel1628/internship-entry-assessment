@@ -236,3 +236,13 @@ This exercise focuses on strategies for working with existing code bases and ens
   I'd try to keep my changes small and focused.
   Its best to check the changes i made and test them if everything works fine and there is no vulnerability.
   If i changed something big its best to test it carefully and get a code review and also write it down in my notes to keep track of it.
+
+- #2
+  It's a best practice to break big code block into smaller parts like component or function which helps with keeping the code clean and easy to work with.
+  Using meaningful names for variables functions and files which are easier to read and understanding.
+  It's not a good practice to always copy paste code, reusing code where its possible is much clean and easier to maintain.
+
+- I'd add comments to explain confusing parts of the code, which helps both me when i come back to it later or anyone else who works on it in the future.
+- Keeping the documentation updated with every change.
+- If i write a new feature, I'd explain it how to use it in a note or README.
+- It's best practice to write small test to make sure my code actually work and doesn't break anything else. 
